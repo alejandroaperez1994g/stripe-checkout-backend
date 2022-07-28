@@ -6,12 +6,7 @@ const app = express()
 const cors = require('cors')
 
 app.use(express.json())
-app.use(
-  cors({
-    // origin: "http://localhost:3000",
-    origin: process.env.FRONTEND_APP
-  })
-)
+app.use(cors())
 
 // Create GET request
 app.get('/', (req, res) => {
