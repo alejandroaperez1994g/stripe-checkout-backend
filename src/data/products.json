@@ -1,0 +1,46 @@
+{
+    "catalog": [
+        {
+          "title": "Front Man Mask Squid Game",
+          "image": "https://i.ibb.co/TKKRYBn/dark-mask.png",
+          "price": 70,
+          "discount": 64,
+          "category": "Mask"
+        },
+        {
+          "title": "The Squid Game Guard Mask",
+          "image": "https://i.ibb.co/1fVcrrq/guard-mask.png",
+          "price": 60,
+          "discount": 44,
+          "category": "Mask"
+        },
+        {
+          "title": "The Squid Game 성기훈 Doll",
+          "image": "https://i.ibb.co/427Hx9r/geosyrup.png",
+          "price": 65,
+          "discount": 45,
+          "category": "Toys"
+        },
+        {
+          "title": "The Squid Game Guard Doll",
+          "image": "https://i.ibb.co/hCJZpRd/guard-doll.png",
+          "price": 85,
+          "discount": 55,
+          "category": "Funko"
+        },
+        {
+          "title": "The Squid Game 티셔츠 PLAYER T-Shirt",
+          "image": "https://i.ibb.co/wL3Y6f4/t-shirt.png",
+          "price": 90,
+          "discount": 75,
+          "category": "Clothing"
+        },
+        {
+          "title": "Squid Game Player 067 Kang Sae",
+          "image": "https://i.ibb.co/fdLFghz/saepost.png",
+          "price": 70,
+          "discount": 64,
+          "category": "Toys"
+        }
+    ]
+}
